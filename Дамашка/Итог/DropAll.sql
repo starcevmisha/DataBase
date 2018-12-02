@@ -1,0 +1,5 @@
+drop table [Cars]
+drop table [Championship]
+drop table [ChampionshipType]
+drop table [Racers]
+drop table [Teams]
